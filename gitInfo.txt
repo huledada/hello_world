@@ -2,4 +2,3 @@ Git is very good tool，i like it.
 hello boy
 是是是
 git stash
-git stash apply
